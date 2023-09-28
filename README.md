@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhrokumarroy@gmail.com**
 
-- 📄 Know about my experiences [abhro.dorik.io](abhro.dorik.io)
+- 📄 Know about my experiences (https://abhro631.github.io/ppfolio.gothub.io/)
 
 - ⚡ Fun fact **I like PG-13 movies**
 
